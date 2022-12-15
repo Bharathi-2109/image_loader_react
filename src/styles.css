@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Heading {
+  margin-width: 200px;
+  margin: 0 auto;
+}
+
+.sub {
+  width: 500px;
+  height: 400px;
+  border: 1px solid #cccfce;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+input {
+  background-color: #e8f0fe;
+  width: 390px;
+}
+h6 {
+  size: 5px;
+  color: black;
+}
+button {
+  margin-top: 30px;
+  background-color: #3fbb79;
+  width: 400px;
+}
